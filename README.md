@@ -2,6 +2,8 @@
 
 # Assessment for an Introduction to JavaScript Collections
 
+You have 30 minutes.
+
 ## Instructions
 
 Fork, clone, and npm install.
