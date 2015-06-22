@@ -1,5 +1,5 @@
 {
-  "name": "js-collections",
+  "name": "js-collections-solo-assessment",
   "version": "0.0.1",
   "description": "An introduction to JavaScript collections.",
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ga-wdi-boston/js-collections-08.git"
+    "url": "git+https://github.com/ga-wdi-boston/js-collections-08-solo-assessment.git"
   },
   "keywords": [
     "collections",
@@ -35,7 +35,7 @@
     "grunt"
   ],
   "bugs": {
-    "url": "https://github.com/ga-wdi-boston/js-collections-08/issues"
+    "url": "https://github.com/ga-wdi-boston/js-collections-08-solo-assessment/issues"
   },
-  "homepage": "https://github.com/ga-wdi-boston/js-collections-08#readme"
+  "homepage": "https://github.com/ga-wdi-boston/js-collections-08-solo-assessment#readme"
 }
