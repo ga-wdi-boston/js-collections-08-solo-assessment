@@ -44,7 +44,7 @@ describe('collections', function() {
     });
 
     it('matches expected array', function() {
-      expect(collections.normalizedWords.sort())
+      expect(collections.uniqueWords.sort())
         .toEqual(sortedUniqueWords);
     });
 
